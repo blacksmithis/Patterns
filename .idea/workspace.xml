@@ -4,11 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1452f617-2015-4015-89c8-617831571998" name="Changes" comment="" />
+    <list default="true" id="1452f617-2015-4015-89c8-617831571998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/GPSNavigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/Transmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/TripComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bilder/res/res.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/refactoringGuru/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/MacOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/MacOSCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/MacOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/WindowsCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/factoryMetodRefactoringGuru/res/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/refactoringGuru/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/refactoringGuru/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/refactoringGuru/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/refactoringGuru/TreeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/refactoringGuru/TreeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Dwj0E94UyydIpD5qH9GpIzn5ei" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +68,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/volodymyr.dmytriiev/IdeaProjects/Patterns/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\volodymyr.dmytriiev\IdeaProjects\Patterns" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +86,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661616819685</updated>
+      <workItem from="1661616821274" duration="652000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
