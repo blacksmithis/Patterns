@@ -25,7 +25,6 @@ public class Demo {
 
     public static void main(String[] args) {
         Application app = configureApplication();
-        var tt = app;
         app.paint();
     }
 }
